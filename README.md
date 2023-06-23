@@ -7,7 +7,7 @@ I'm an aspiring full stack developer.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, JQuery, ReactJS, Bootstrap
+Javascript, HTML, CSS, PHP, JQuery, ReactJS, Bootstrap, Flutter
 
 
 ## 🔗 Links
